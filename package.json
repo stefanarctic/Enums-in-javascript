@@ -1,0 +1,13 @@
+{
+  "name": "enums-in-javascript",
+  "version": "1.0.0",
+  "description": "Enums in javascript",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "start": "node usage.js"
+  },
+  "author": "Stefanarctic",
+  "license": "ISC"
+}
