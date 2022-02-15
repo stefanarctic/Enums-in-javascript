@@ -6,4 +6,4 @@ I've implemented Enums in js cuz I was bored
 
 The library is ``Enums.js`` and a usage for it is in ``usage.js``
 
-After you've made your changed go into your directory with your terminal and run ``npm start``
+After you've made your changes go into your directory with your terminal and run ``npm start``
