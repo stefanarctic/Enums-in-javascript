@@ -10,7 +10,7 @@ class EnumInstance {
         this.property = property;
     }
     compare(property) {
-        return this.property == property;
+        return this.property === property;
     }
 }
 
